@@ -1,0 +1,13 @@
+{
+  "name": "desafio_01_ignite",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Desafio_01",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
